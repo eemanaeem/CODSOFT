@@ -1,2 +1,2 @@
 # CODSOFT
-This is my first Git repository and it is Data Science Internship
+This is my first Git Repository and it is for Data Science Internship
